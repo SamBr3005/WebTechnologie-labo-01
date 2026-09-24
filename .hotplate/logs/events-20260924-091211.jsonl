@@ -1,0 +1,4 @@
+{"ts":"2026-09-24T09:12:11.226Z","session":"20260924-091211","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\Users\\sambr\\Documents\\School\\schooljaar2026-2027\\Webtechnologie\\Les-1","https":false,"live_reload":true}}
+{"ts":"2026-09-24T09:12:11.449Z","session":"20260924-091211","kind":"http_request","data":{"method":"GET","path":"/","status":200,"duration_ms":0}}
+{"ts":"2026-09-24T09:12:11.500Z","session":"20260924-091211","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[672,798]}}
+{"ts":"2026-09-24T09:12:27.587Z","session":"20260924-091211","kind":"ws_disconnect","data":{"client_id":"c0"}}
